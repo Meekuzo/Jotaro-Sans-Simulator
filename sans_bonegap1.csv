@@ -1,0 +1,17 @@
+0,SansAnimation,Idle,,
+0,HeartTeleport,320,376,,,,,
+0,CombatZoneResizeInstant,234,252,410,392,,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0.4,BoneVRepeat,128,257,95,0,220,6,133
+0,BoneVRepeat,128,366,20,0,220,6,133
+0,BoneVRepeat,503,257,95,2,220,6,133
+0,BoneVRepeat,503,366,20,2,220,6,133
+5.6,SansBody,HandUp,,
+0,SansSlam,3,,
+0.4,BoneVRepeat,128,257,20,0,210,3,133
+0,BoneVRepeat,128,300,90,0,210,3,133
+0,SansAnimation,Idle,,
+0,BoneVRepeat,503,257,20,2,210,3,133
+0,BoneVRepeat,503,300,90,2,210,3,133
+4,EndAttack,,,

@@ -1,0 +1,75 @@
+0,Sound,mus_bizarrovania,0,,,,,
+0,SansAnimation,,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+1,SansHead,Default,,,,,,,
+0,SansText,heya.,,,,,,,
+0,SansHead,BlueEye,,,,,,,,
+0,SansText,i can't give you a            bad time without getting         closer.,,,,,,,,
+0.5,SansHead,ClosedEyes,,,,,,,,
+0,SansText,so without wasting                      our time...,,,,,,,,
+0.2,GasterBlaster,1,0,0,223,155,90,99999,0.26666
+0.5,SansHead,NoEyes,,,,,,,,
+0,SansText,are you ready?,,,,,,,,
+0.5,BlackScreen,1,,,,;
+0,Sound,Flash,,,,,;
+1,Sound,Ding,,;
+0.77777,BlackScreen,0,,,,,;
+0,SansHead,NoEyes,,,;
+0,CombatZoneResizeInstant,239,226,404,391,,,,;
+0,HeartMode,1,,,,;
+0,HeartTeleport,310,304,,,,,,;
+0,Sound,mus_zz_megalovania,0,,,,,;
+0.6,SansBody,HandUp,,,;
+0,SansSlam,3,,,;
+0,BoneStab,3,35,0.5666,0.1666,,;
+0,BoneStab,1,95,0.3666,0.1666,,;
+0.6,SansBody,Handleft,,;
+0,SansHead,NoEyes,,,;
+0.1,Sound,Ding,,;
+0,CombatZoneResizeInstant,10,226,204,391,,,,;
+0,HeartTeleport,100,270,,;
+0,SansBody,HandLeft,,;
+0,SansSlam,2,,,;
+0,BoneStab,2,35,0.4555,0.2,,;
+0.2,SansBody,HandDown,,,;
+0.5,SansSlam,1,,,;
+0,BoneStab,1,30,0.466,0.1,,,;
+0,Sound,Slam,,;
+0,SansTorso,Default,,;
+0.2,HeartMode,0,,;
+0.4,BoneVRepeat,128,257,35,0,150,8,103;
+0.4,BoneVRepeat,128,297,35,0,150,8,103;
+0.7,GasterBlaster,1,100,0,265,364,180,0.7,1;
+1.0,GasterBlaster,0,100,0,265,242,180,0.7,1;
+2.1,GasterBlaster,1,100,0,265,330,180,0.6,1;
+0.1,GasterBlaster,1,100,0,265,300,180,0.6,1;
+1.5,SansHead,NoEyes,,,;
+0,Sound,Ding,,;
+1,CombatZoneResizeInstant,239,226,404,391,,,,;
+0,HeartMode,0,,,,;
+0.2,HeartTeleport,310,304,,,,,,;
+0.2,SansHead,NoEyes,,;
+0,SansBody,HandUp,,,;
+0,SansSlam,3,,;
+1,GasterBlaster,0,10,0,60,235,0.2,0.2;
+1,GasterBlaster,0,10,0,60,257,0.2,0.2;
+0.5,GasterBlaster,0,10,0,60,235,0.2,0.2;
+0.5,GasterBlaster,1,10,0,60,258,0.5,0.2;
+0.3,GasterBlaster,0,10,0,60,235,0.5,0.2;
+0.1,HeartMode,0,,;
+0.1,BoneStab,1,30,2,2,;
+0.1,BoneStab,3,30,2,2,;
+0.1,BoneStab,0,25,2,2,;
+0,BoneStab,2,25,2,2,;
+0,Sound,GasterBlaster,,;
+1,GasterBlaster,1,400,430,160,300,1.7,2;
+0,GasterBlaster,1,,0,200,210,20,1.7,2;
+0,GasterBlaster,1,,0,40,290,20,1.7,2;
+0,GasterBlaster,1,,0,440,200,120,1.7,2;
+0,SansTorso,Default,,;
+3,SansHead,Default,,;
+1.3,SansText,yare yare daze...,,;
+0,SansHead,NoEyes,,,;
+0,SansText,get comfortable,,;
+0.2,SansText,we're gonna be here for       a while,,,;
+0,EndAttack,,,;

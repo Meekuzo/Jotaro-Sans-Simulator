@@ -1,0 +1,12 @@
+﻿{
+	"name": "Bad Time Simulator (Jotaro Sans Fight)",
+	"short_name": "Jotaro Sans Simulator",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"icons": [{
+		"src": "icon.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	}]
+}

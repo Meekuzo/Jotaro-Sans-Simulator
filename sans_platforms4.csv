@@ -1,0 +1,16 @@
+0.5,CombatZoneResizeInstant,209,226,435,391,,,,;
+0,HeartMode,1,,,,,,,
+0,HeartTeleport,320,304,,,,,,
+0.2,SansBody,HandDown,,;
+0,SansSlam,1,,;
+0,Platform,250,335,45,0, 100,1;
+1,BoneStab,1,43,1.2,7,;
+0,SansTorso,Default,,;
+0.2,BoneHRepeat,207,200,40,1,60,10,70;
+0,BoneHRepeat,400,200,40,1,60,10,70;
+1.5,GasterBlaster,1,100,0,300,190,90,1.066,1.1;
+2.5,GasterBlaster,0,100,0,390,170,90,1.066,0.3;
+0.1,GasterBlaster,0,100,0,300,170,90,1.066,0.3;
+4,BoneStab,3,100,1,1,;
+0.3,SansAnimation,Idle,,;
+5,EndAttack,,,;
