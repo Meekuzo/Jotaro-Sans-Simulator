@@ -1,5 +1,5 @@
 ﻿{
-	"version": "1.0.12.07-beta",
+	"version": "1.0.0-beta",
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -76,8 +76,8 @@
 		"resources/music/playerheal.ogg",
 		"resources/music/gasterblast2.ogg",
 		"resources/music/mus_bizarrovania.ogg",
-		"icon.png",
-		"loading-logo.png",
+		"resources/icon.png",
+		"resources/loading-logo.png",
 		"sans_intro.csv",
 		"sans_bonegap1.csv",
 		"sans_bonegap2.csv",
