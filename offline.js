@@ -1,5 +1,5 @@
 ﻿{
-	"version": "1.0.1.1-beta",
+	"version": "1.0.1.2-beta",
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -61,7 +61,7 @@
 		"resources/music/ding.ogg",
 		"resources/music/playerfight.ogg",
 		"resources/music/playerdamaged.ogg",
-		"resources/music/sanstext.ogg",
+		"resources/music/sansspeak.ogg",
 		"resources/music/gasterblaster.ogg",
 		"resources/music/bonestab.ogg",
 		"resources/music/warning.ogg",
