@@ -386,7 +386,7 @@
 0,GasterBlaster,1,0,0,449,366,180,0.4,0.1
 0,GasterBlaster,1,0,0,379,446,270,0.4,0.1
 0,HeartMode,0,,,,,,,
-0,SansText,THE WORLD!,,,,
+0,SansText,this is it then...                      my special attack.,,,,
 1.5,BlackScreen,1,,,,,,,
 0,Sound,mus_bizarrovania,0,,,,,
 0,Sound,Flash,,,,,,,
@@ -395,9 +395,9 @@
 0,HeartTeleport,320,320,,,,,,
 0.6666,BlackScreen,0,,,,,,,
 0,CombatZoneResizeInstant,270,270,370,370,,,,
-2,SansText,good greif.,,,,
+2,SansText,this is makes me                   get tired.,,,,
 2,SansText,now...,,,,
-5,SansText,it wont even take               a second to finish you              off.,,,,
+5,SansText,anyways.                              survive this!,,,,
 0,SansAnimation,,,,,,,,
 1,SansHead,BlueEye,,,,,,,,
 0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
@@ -414,3 +414,4 @@
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+0,EndAttack
