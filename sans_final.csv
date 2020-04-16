@@ -396,22 +396,35 @@
 0.6666,BlackScreen,0,,,,,,,
 0,CombatZoneResizeInstant,270,270,370,370,,,,
 2,SansText,this is makes me                   get tired.,,,,
-2,SansText,now...,,,,
-5,SansText,anyways.                              survive this!,,,,
+2,SansText,now i want to                      ask something.,,,,
+3.5,SansText,so how's meekuzo                   doing right now?,,,,
+2,SansText,i haven't seen                                him around since he                     started making cheat                             HP video.
+2,SansText,there's alot videos                           that i watched.
+2,SansText,but hey.                                      cheating fangame was                         fine, right?
+4,SansText,wait.
+2,SansText,you don't know                                          who is meekuzo,                               right?
+2,SansText,fine then.
 0,SansAnimation,,,,,,,,
 1,SansHead,BlueEye,,,,,,,,
 0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
+2,SansText,he is a youtuber.
+0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+2,SansText,and he have his own AU.
+0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+2,SansHead,ClosedEyes
+2,SansText,but, he's a                                   good person.
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+2,SansText,if you don't mind...
+2,SansText,shall i restart                                   again?
+
 3.9,EndAttack
