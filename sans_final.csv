@@ -426,6 +426,11 @@
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 2,SansText,if you don't mind...
 2,SansText,shall i restart                                   again?
+1.5,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+0.6666,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,,
+0,Sound,mus_bizarrovania,,,,,,,
 0,HeartMode,0,,,,,,,
 0,CombatZoneResize,241,226,406,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
